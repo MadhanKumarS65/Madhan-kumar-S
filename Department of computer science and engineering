@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name=""viewport"
+    content="width=device-width,initial-scale=1.0">
+    <title> project 1</title>
+    <link rel="stylesheet"href="style.css">
+</head>    
+<body>
+    <div class="a0">
+    <h1> DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING</h1>
+    </div>
+    <div class="a1">
+    <p>Computer science and engineering (CSE) is an academic program at many universities which comprises approaches of computer science and computer engineering..</p>
+        <nav>
+            <img src="C:\Users\Madhan\Downloads\dep cse.png" width="1150">
+            <ul>
+                <li> <a href="./about.html">ABOUT</a></li>
+                <li> <a href="./programming.html">PROGRAMMING</a></li>
+                <li> <a href="./algorithms.html">ALGORITHMS</a></li>
+                <li> <a href="./subfields.html">SUBFIELDS</a></li>
+                <li> <a href="./emerging trends.html">EMERGING TRENDS</a></li>
+            </ul>
+        </nav>
+        <img src="C:\Users\Madhan\Downloads\about.jpg" width="900">
+    <h2> ACADEMIC PROGRAMS :</h2>
+    <p>Academic Programs
+        Undergraduate Degrees: Programs like Bachelor of Science (BS) or Bachelor of Engineering (BEng) in Computer Science, Computer Engineering, or a related field. These programs usually cover a broad range of topics including programming, algorithms, data structures, computer systems, and software engineering.
+        
+        Graduate Degrees: Master’s programs (MS or MEng) and Doctoral programs (PhD). These programs often offer more specialized coursework and research opportunities in areas such as artificial intelligence, cybersecurity, data science, and embedded systems.
+        
+        Certificates and Minors: Specialized certificate programs or minors that allow students to gain expertise in niche areas like cybersecurity, machine learning, or software development.</p>
+    </div>
+    </body>
+</html>
